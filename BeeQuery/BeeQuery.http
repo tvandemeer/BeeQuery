@@ -1,0 +1,6 @@
+@BeeQuery_HostAddress = http://localhost:5277
+
+GET {{BeeQuery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
